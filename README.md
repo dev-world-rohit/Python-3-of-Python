@@ -24,6 +24,7 @@ I also learned all of the important methods used in these sequence data.
 In shallow copy, new sequence is created but the new sequence reference the same elements as original.
 - adding/removing/replacing the element in copy do not afftect the original sequence
 - but mutating data will also affect the new sequnce
+
 ![image](https://github.com/dev-world-rohit/Python-3-of-Python/assets/136791205/3d11b6a4-1a81-4054-b971-da6484041470)
 
 
